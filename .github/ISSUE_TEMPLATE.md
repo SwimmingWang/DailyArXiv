@@ -1,63 +1,63 @@
 ---
-title: Latest 15 Papers - February 21, 2025
+title: Latest 15 Papers - February 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## LLM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Temporal Regime Structure Learning](http://arxiv.org/abs/2311.01412v3)** | 2025-02-19 |  |
-| **[Generalization bounds for mixing processes via delayed online-to-PAC conversions](http://arxiv.org/abs/2406.12600v3)** | 2025-02-19 |  |
-| **[From Correctness to Comprehension: AI Agents for Personalized Error Diagnosis in Education](http://arxiv.org/abs/2502.13789v1)** | 2025-02-19 |  |
-| **[Adapting Large Language Models for Time Series Modeling via a Novel Parameter-efficient Adaptation Method](http://arxiv.org/abs/2502.13725v1)** | 2025-02-19 |  |
-| **[Learning Novel Transformer Architecture for Time-series Forecasting](http://arxiv.org/abs/2502.13721v1)** | 2025-02-19 |  |
-| **[MAAT: Mamba Adaptive Anomaly Transformer with association discrepancy for time series](http://arxiv.org/abs/2502.07858v2)** | 2025-02-19 |  |
-| **[Adaptive higher order reversible integrators for memory efficient deep learning](http://arxiv.org/abs/2410.09537v2)** | 2025-02-19 |  |
-| **[Unlocking Multimodal Integration in EHRs: A Prompt Learning Framework for Language and Time Series Fusion](http://arxiv.org/abs/2502.13509v1)** | 2025-02-19 | 13 pages, 5 figures |
-| **[Tensor dynamic conditional correlation model: A new way to pursuit "Holy Grail of investing"](http://arxiv.org/abs/2502.13461v1)** | 2025-02-19 |  |
-| **[Signature-based IaaS Performance Change Detection](http://arxiv.org/abs/2410.17623v2)** | 2025-02-19 | <details><summary>Publi...</summary><p>Published at ACM Transaction on Internet Technology. The paper was extended from the paper: arXiv:2007.11705</p></details> |
-| **[Community Notes Moderate Engagement With and Diffusion of False Information Online](http://arxiv.org/abs/2502.13322v1)** | 2025-02-18 |  |
-| **[Swarm Characteristics Classification Using Neural Networks](http://arxiv.org/abs/2403.19572v3)** | 2025-02-18 | <details><summary>Artic...</summary><p>Article published in IEEE TAES. Added IEEE copyright and DOI to accepted version of paper</p></details> |
-| **[VUS: Effective and Efficient Accuracy Measures for Time-Series Anomaly Detection](http://arxiv.org/abs/2502.13318v1)** | 2025-02-18 |  |
-| **[Cointegration with Occasionally Binding Constraints](http://arxiv.org/abs/2211.09604v3)** | 2025-02-18 | <details><summary>ii + ...</summary><p>ii + 58 pp., 4 figures</p></details> |
-| **[$k$-Graph: A Graph Embedding for Interpretable Time Series Clustering](http://arxiv.org/abs/2502.13049v1)** | 2025-02-18 |  |
+| **[Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs](http://arxiv.org/abs/2502.19413v1)** | 2025-02-26 | Technical Report |
+| **[Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs](http://arxiv.org/abs/2502.19411v1)** | 2025-02-26 | <details><summary>Proje...</summary><p>Project Repo: https://github.com/dayuyang1999/Awesome-Code-Reasoning</p></details> |
+| **[Less or More: Towards Glanceable Explanations for LLM Recommendations Using Ultra-Small Devices](http://arxiv.org/abs/2502.19410v1)** | 2025-02-26 |  |
+| **[TheoremExplainAgent: Towards Multimodal Explanations for LLM Theorem Understanding](http://arxiv.org/abs/2502.19400v1)** | 2025-02-26 |  |
+| **[InductionBench: LLMs Fail in the Simplest Complexity Class](http://arxiv.org/abs/2502.15823v2)** | 2025-02-26 | 24 pages, 7 figures |
+| **[The Hyperfitting Phenomenon: Sharpening and Stabilizing LLMs for Open-Ended Text Generation](http://arxiv.org/abs/2412.04318v2)** | 2025-02-26 | Under review at ICLR |
+| **[Shh, don't say that! Domain Certification in LLMs](http://arxiv.org/abs/2502.19320v1)** | 2025-02-26 | <details><summary>10 pa...</summary><p>10 pages, includes appendix Published in International Conference on Learning Representations (ICLR) 2025</p></details> |
+| **[FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users](http://arxiv.org/abs/2502.19312v1)** | 2025-02-26 | <details><summary>Websi...</summary><p>Website: https://fewshot-preference-optimization.github.io/</p></details> |
+| **[Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go Beyond](http://arxiv.org/abs/2502.19301v1)** | 2025-02-26 |  |
+| **[Complex LLM Planning via Automated Heuristics Discovery](http://arxiv.org/abs/2502.19295v1)** | 2025-02-26 |  |
+| **[Drawing Pandas: A Benchmark for LLMs in Generating Plotting Code](http://arxiv.org/abs/2412.02764v2)** | 2025-02-26 | 5 pages |
+| **[Negation-Induced Forgetting in LLMs](http://arxiv.org/abs/2502.19211v1)** | 2025-02-26 | <details><summary>ISCA/...</summary><p>ISCA/ITG Workshop on Diversity in Large Speech and Language Models</p></details> |
+| **[UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering](http://arxiv.org/abs/2502.19178v1)** | 2025-02-26 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 7 tables</p></details> |
+| **[A Sliding Layer Merging Method for Efficient Depth-Wise Pruning in LLMs](http://arxiv.org/abs/2502.19159v1)** | 2025-02-26 |  |
+| **[Isolating Language-Coding from Problem-Solving: Benchmarking LLMs with PseudoEval](http://arxiv.org/abs/2502.19149v1)** | 2025-02-26 |  |
 
-## Trajectory
+## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Online Optimization-Based Trajectory Planning Approach for Cooperative Landing Tasks](http://arxiv.org/abs/2502.13823v1)** | 2025-02-19 |  |
-| **[Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements](http://arxiv.org/abs/2502.01280v2)** | 2025-02-19 |  |
-| **[Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents](http://arxiv.org/abs/2502.11357v2)** | 2025-02-19 | 24 pages, 7 figures |
-| **[BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning](http://arxiv.org/abs/2502.13286v1)** | 2025-02-18 | 9 pages, 6 figures |
-| **[Gradient-based Trajectory Optimization with Parallelized Differentiable Traffic Simulation](http://arxiv.org/abs/2412.16750v2)** | 2025-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
-| **[Learning Plasma Dynamics and Robust Rampdown Trajectories with Predict-First Experiments at TCV](http://arxiv.org/abs/2502.12327v1)** | 2025-02-17 |  |
-| **[Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening](http://arxiv.org/abs/2502.12146v1)** | 2025-02-17 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/Diffusion-Sharpening</p></details> |
-| **[Leader and Follower: Interactive Motion Generation under Trajectory Constraints](http://arxiv.org/abs/2502.11563v1)** | 2025-02-17 |  |
-| **[A linear-time algorithm computing the resident fitness in interacting trajectories](http://arxiv.org/abs/2502.11561v1)** | 2025-02-17 |  |
-| **[Reducing Computational Complexity of Rigidity-Based UAV Trajectory Optimization for Real-Time Cooperative Target Localization](http://arxiv.org/abs/2502.11278v1)** | 2025-02-16 | <details><summary>Submi...</summary><p>Submitted to ION ITM 2025</p></details> |
-| **[Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation](http://arxiv.org/abs/2502.10585v1)** | 2025-02-14 |  |
-| **[Diffusion Trajectory-guided Policy for Long-horizon Robot Manipulation](http://arxiv.org/abs/2502.10040v1)** | 2025-02-14 |  |
-| **[Statistical modeling of categorical trajectories with multivariate functional principal components](http://arxiv.org/abs/2502.09986v1)** | 2025-02-14 |  |
-| **[Geospatial Trajectory Generation via Efficient Abduction: Deployment for Independent Testing](http://arxiv.org/abs/2407.06447v2)** | 2025-02-13 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2024, arXiv:2502.08453</p></details> |
-| **[Training Trajectory Predictors Without Ground-Truth Data](http://arxiv.org/abs/2502.08957v1)** | 2025-02-13 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV 2025)</p></details> |
+| **[Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems](http://arxiv.org/abs/2502.19328v1)** | 2025-02-26 | 16 pages, 5 figures |
+| **[Agent-centric Information Access](http://arxiv.org/abs/2502.19298v1)** | 2025-02-26 |  |
+| **[MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis](http://arxiv.org/abs/2502.19175v1)** | 2025-02-26 |  |
+| **[Multi-Agent Security Tax: Trading Off Security and Collaboration Capabilities in Multi-Agent Systems](http://arxiv.org/abs/2502.19145v1)** | 2025-02-26 | <details><summary>Accep...</summary><p>Accepted to AAAI 2025 Conference</p></details> |
+| **[Large Language Model Agent for Hyper-Parameter Optimization](http://arxiv.org/abs/2402.01881v3)** | 2025-02-26 |  |
+| **[ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration](http://arxiv.org/abs/2410.02551v2)** | 2025-02-26 | <details><summary>ACM T...</summary><p>ACM TheWebConf 2025 Conference (WWW 2025) Research Track</p></details> |
+| **[Voting or Consensus? Decision-Making in Multi-Agent Debate](http://arxiv.org/abs/2502.19130v1)** | 2025-02-26 |  |
+| **[Language-Driven Opinion Dynamics in Agent-Based Simulations with LLMs](http://arxiv.org/abs/2502.19098v1)** | 2025-02-26 | <details><summary>34 pa...</summary><p>34 pages, journal submission</p></details> |
+| **[Nexus: A Lightweight and Scalable Multi-Agent Framework for Complex Tasks Automation](http://arxiv.org/abs/2502.19091v1)** | 2025-02-26 |  |
+| **[MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](http://arxiv.org/abs/2410.07095v6)** | 2025-02-26 | <details><summary>10 pa...</summary><p>10 pages, 17 pages appendix. Equal contribution by first seven authors, authors randomized. ICLR version</p></details> |
+| **[A Multi-Agent DRL-Based Framework for Optimal Resource Allocation and Twin Migration in the Multi-Tier Vehicular Metaverse](http://arxiv.org/abs/2502.19004v1)** | 2025-02-26 | 15 pages, 16 figures |
+| **[VEM: Environment-Free Exploration for Training GUI Agent with Value Environment Model](http://arxiv.org/abs/2502.18906v1)** | 2025-02-26 | 20pages,5 figures |
+| **[Letters from Future Self: Augmenting the Letter-Exchange Exercise with LLM-based Agents to Enhance Young Adults' Career Exploration](http://arxiv.org/abs/2502.18881v1)** | 2025-02-26 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</p></details> |
+| **[AFlow: Automating Agentic Workflow Generation](http://arxiv.org/abs/2410.10762v3)** | 2025-02-26 |  |
+| **[REALM-Bench: A Real-World Planning Benchmark for LLMs and Multi-Agent Systems](http://arxiv.org/abs/2502.18836v1)** | 2025-02-26 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 9 tables</p></details> |
 
-## Graph Neural Networks
+## decision making
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mesh-based Super-Resolution of Fluid Flows with Multiscale Graph Neural Networks](http://arxiv.org/abs/2409.07769v3)** | 2025-02-19 |  |
-| **[Unsupervised Graph Embeddings for Session-based Recommendation with Item Features](http://arxiv.org/abs/2502.13763v1)** | 2025-02-19 |  |
-| **[Heterophily-Aware Fair Recommendation using Graph Convolutional Networks](http://arxiv.org/abs/2402.03365v3)** | 2025-02-19 | 24 pages |
-| **[Homophily Heterogeneity Matters in Graph Federated Learning: A Spectrum Sharing and Complementing Perspective](http://arxiv.org/abs/2502.13732v1)** | 2025-02-19 | 15 pages |
-| **[Towards Invariance to Node Identifiers in Graph Neural Networks](http://arxiv.org/abs/2502.13660v1)** | 2025-02-19 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2411.02271</p></details> |
-| **[Non-Euclidean Hierarchical Representational Learning using Hyperbolic Graph Neural Networks for Environmental Claim Detection](http://arxiv.org/abs/2502.13628v1)** | 2025-02-19 |  |
-| **[Sampling-based Distributed Training with Message Passing Neural Network](http://arxiv.org/abs/2402.15106v4)** | 2025-02-19 |  |
-| **[Are Large Language Models In-Context Graph Learners?](http://arxiv.org/abs/2502.13562v1)** | 2025-02-19 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
-| **[Uncertainty-Aware Graph Structure Learning](http://arxiv.org/abs/2502.12618v2)** | 2025-02-19 | <details><summary>This ...</summary><p>This paper has been accepted by TheWebConf 2025</p></details> |
-| **[Some Insights of Construction of Feature Graph to Learn Pairwise Feature Interactions with Graph Neural Networks](http://arxiv.org/abs/2502.13471v1)** | 2025-02-19 | <details><summary>This ...</summary><p>This is the draft before submitting to any journal</p></details> |
-| **[Large Language-Geometry Model: When LLM meets Equivariance](http://arxiv.org/abs/2502.11149v2)** | 2025-02-19 |  |
-| **[Graph Neural Networks for Databases: A Survey](http://arxiv.org/abs/2502.12908v2)** | 2025-02-19 | <details><summary>A sur...</summary><p>A survey focus on GNNs and databases. 9 pages, 4 figures</p></details> |
-| **[AutoParLLM: GNN-guided Context Generation for Zero-Shot Code Parallelization using LLMs](http://arxiv.org/abs/2310.04047v3)** | 2025-02-19 |  |
-| **[K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction](http://arxiv.org/abs/2502.13344v1)** | 2025-02-18 |  |
-| **[Generalizable Graph Neural Networks for Robust Power Grid Topology Control](http://arxiv.org/abs/2501.07186v2)** | 2025-02-18 |  |
+| **[CryptoPulse: Short-Term Cryptocurrency Forecasting with Dual-Prediction and Cross-Correlated Market Indicators](http://arxiv.org/abs/2502.19349v1)** | 2025-02-26 | 10 |
+| **[Robust Pareto Transistor Sizing of GaN HEMTs for Millimeter-Wave Applications](http://arxiv.org/abs/2406.17337v2)** | 2025-02-26 |  |
+| **[WOFOSTGym: A Crop Simulator for Learning Annual and Perennial Crop Management Strategies](http://arxiv.org/abs/2502.19308v1)** | 2025-02-26 |  |
+| **[Multiclass Post-Earthquake Building Assessment Integrating Optical and SAR Satellite Imagery, Ground Motion, and Soil Data with Transformers](http://arxiv.org/abs/2412.04664v2)** | 2025-02-26 | 28 Pages, 12 Figures |
+| **[Application of Multimodal Large Language Models in Autonomous Driving](http://arxiv.org/abs/2412.16410v2)** | 2025-02-26 | 9 pages, 9 figures |
+| **[AI-Powered Bayesian Inference](http://arxiv.org/abs/2502.19231v1)** | 2025-02-26 | <details><summary>Resea...</summary><p>Research note, 27 pages, 3 figures</p></details> |
+| **[MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis](http://arxiv.org/abs/2502.19175v1)** | 2025-02-26 |  |
+| **[ColaCare: Enhancing Electronic Health Record Modeling through Large Language Model-Driven Multi-Agent Collaboration](http://arxiv.org/abs/2410.02551v2)** | 2025-02-26 | <details><summary>ACM T...</summary><p>ACM TheWebConf 2025 Conference (WWW 2025) Research Track</p></details> |
+| **[Voting or Consensus? Decision-Making in Multi-Agent Debate](http://arxiv.org/abs/2502.19130v1)** | 2025-02-26 |  |
+| **[Policy Testing with MDPFuzz (Replicability Study)](http://arxiv.org/abs/2502.19116v1)** | 2025-02-26 | <details><summary>Autho...</summary><p>Author's version. 12 pages, 7 figures</p></details> |
+| **[ACEBench: Who Wins the Match Point in Tool Usage?](http://arxiv.org/abs/2501.12851v4)** | 2025-02-26 |  |
+| **[How Far are LLMs from Real Search? A Comprehensive Study on Efficiency, Completeness, and Inherent Capabilities](http://arxiv.org/abs/2502.18387v2)** | 2025-02-26 | <details><summary>31 pa...</summary><p>31 pages, 9 figures, 18 tables</p></details> |
+| **[A Causal Lens for Evaluating Faithfulness Metrics](http://arxiv.org/abs/2502.18848v1)** | 2025-02-26 | <details><summary>18 pa...</summary><p>18 pages, 18 figures, 6 tables</p></details> |
+| **[FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](http://arxiv.org/abs/2502.18834v1)** | 2025-02-26 |  |
+| **[Data-Efficient Multi-Agent Spatial Planning with LLMs](http://arxiv.org/abs/2502.18822v1)** | 2025-02-26 |  |
 
